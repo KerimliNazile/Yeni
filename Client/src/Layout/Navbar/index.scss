@@ -1,0 +1,16 @@
+nav {
+    padding: 20px;
+
+    .MainNav {
+        #Nav {
+            font-size: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            li a{
+                color: black;
+            }
+        }
+    }
+}
